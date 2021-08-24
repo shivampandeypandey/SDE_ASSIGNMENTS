@@ -1,1 +1,41 @@
+<!DOCTYPE html>
 
+<html>
+
+<head>
+
+<link href="style.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<form>
+
+<label>PRODUCT NAME</label><br>
+
+<input type="text"id="Name"><br><br>
+
+<label>UNIT OF MEASUREMENT</label><br> <input type="text" id="text"><br><br>
+
+<label>PRICE</label><br> <input type="text" id="text"><br><br>
+
+<label>PRODUCT IMAGE</label><br><br>
+<div class="upload">
+<button class="text"> Upload File</button>
+<br><br> </div><br><br>
+<label>PRODUCT DESCRIPTION</label><br>
+
+<input id="a" type="text" id="text"><br><br> <button class="text">Save</button>
+
+<button class="text">Reset</button>
+
+</form>
+
+</div>
+
+</body>
+
+</html>
